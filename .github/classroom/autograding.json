@@ -18,7 +18,7 @@
       "output": "",
       "comparison": "included",
       "timeout": 10,
-      "points": null
+      "points": 10
     }
   ]
 }
